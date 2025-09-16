@@ -301,9 +301,9 @@
     ],
     "lives": [
         {
-            "name": "临时直播",
+            "name": "洪宇的mut",
             "type": 0,
-            "url": "./lib/tv.m3u",
+            "url": "https://daili.korice.eu.org/https://raw.githubusercontent.com/110COM/repo/refs/heads/main/a/mut8.m3u",
             "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
             "logo": "https://live.fanmingming.cn/tv/{name}.png",
             "playerType": 2,
