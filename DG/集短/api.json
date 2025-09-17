@@ -4,7 +4,38 @@
     
     "sites": [
 
-    
+            {"jar":"https://daili.korice.eu.org/https://raw.githubusercontent.com/llllse/1993/refs/heads/main/1993.jar",
+        "key":"YU_Market",
+        "name":"📢洪宇┃网络应用商店",
+        "type":3,"api":"csp_Market",
+        "searchable":0,
+        "changeable":0,
+        "ext":"https://daili.korice.eu.org/https://raw.githubusercontent.com/llllse/1993/refs/heads/main/1993.json"},
+
+        
+    {
+      "key": "csp_XYQHiker_虎牙直播",
+      "name": "🎧洪宇┃网络虎牙",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "jar": "https://daili.korice.eu.org/https://raw.githubusercontent.com/llllse/1993/refs/heads/main/custom_spider.jar;md5;e6f46d10150d782fcb10ef179bab3f47",
+      "ext": "https://daili.korice.eu.org/https://raw.githubusercontent.com/llllse/1993/refs/heads/main/虎牙直播.json"
+    },
+
+    {
+      "key": "csp_XYQHiker_斗鱼直播",
+      "name": "🎧洪宇┃网络斗鱼",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "jar": "https://daili.korice.eu.org/https://raw.githubusercontent.com/llllse/1993/refs/heads/main/custom_spider.jar;md5;e6f46d10150d782fcb10ef179bab3f47",
+      "ext": "https://daili.korice.eu.org/https://raw.githubusercontent.com/llllse/1993/refs/heads/main/斗鱼直播.json"
+    },
      {
             "key": "邵氏短剧",
             "name": "⏬洪宇┃短剧⏬",
